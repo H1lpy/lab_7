@@ -45,7 +45,7 @@ namespace ConsoleApp1
             Console.WriteLine();
 
             //3 задание
-            for (int i = 1; i < h.Length ; i++)
+            for (int i = 0; i < h.Length ; i++)
             {
                 if (h[i] > 0)
                 {
